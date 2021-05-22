@@ -1,0 +1,2 @@
+rootProject.name = "Imagenes_ReciclerView"
+include ':app'
